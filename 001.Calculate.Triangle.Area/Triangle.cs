@@ -11,9 +11,9 @@ namespace _001.Calculate.Triangle.Area
 {
     class Triangle
     {
-        public int A;
-        public int B;
-        public int C;
+        public double A;
+        public double B;
+        public double C;
 
         public double Area()
         {
