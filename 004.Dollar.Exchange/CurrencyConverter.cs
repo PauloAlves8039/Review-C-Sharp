@@ -9,7 +9,7 @@
         public static double Ftt = 6.0;
 
         /// <summary>
-        /// Método para convenção de moeda em dólar para real
+        /// Método para conversão de moeda em dólar para real
         /// </summary>
         /// <param name="amount">Informa a quantia recebida</param>
         /// <param name="quotation">Informa o valor da cotação</param>
